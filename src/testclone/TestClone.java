@@ -16,6 +16,7 @@ public class TestClone {
      */
     public static void main(String[] args) {
         System.out.println("this is a remote project !!!");
+        System.out.println("TestClone ");
     }
     
 }
